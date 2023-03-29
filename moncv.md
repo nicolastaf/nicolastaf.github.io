@@ -1,6 +1,7 @@
 ---
 permalink: /moncv/
 ---
+[index](/index/)
 # Mon CV Développeur web
 
 ## Formations
