@@ -1,3 +1,6 @@
+---
+permalink: /moncv/
+---
 # Mon CV Développeur web
 
 ## Formations
