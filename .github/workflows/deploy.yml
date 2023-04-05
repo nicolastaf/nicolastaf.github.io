@@ -2,14 +2,6 @@
 name: Deploy static content to Pages
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:name: GitHub Pages Astro CI
-
-on:
   # Déclenchez le workflow chaque fois que vous poussez vers la branche `main`
   # Vous utilisez un nom de branche différent ? Remplacez `main` par le nom de votre branche
   push:
